@@ -161,7 +161,7 @@ python check_news.py
 **Saniya Chatterjee**  
 B.Tech Electronics & Telecommunications, Symbiosis Institute of Technology, Pune
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saniya-chatterjee-245471266/)
 [![Email](https://img.shields.io/badge/Email-saniyaa0103@gmail.com-red?style=flat-square&logo=gmail)](mailto:saniyaa0103@gmail.com)
 
 ---
